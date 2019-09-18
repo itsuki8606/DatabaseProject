@@ -1,0 +1,11 @@
+D:\重要\作業相關\大學部\資訊系必選修\資料庫系統導論\DatabaseProject\DatabaseProject\bin\Debug\DatabaseProject.exe.config
+D:\重要\作業相關\大學部\資訊系必選修\資料庫系統導論\DatabaseProject\DatabaseProject\obj\Debug\DatabaseProject.csprojResolveAssemblyReference.cache
+D:\重要\作業相關\大學部\資訊系必選修\資料庫系統導論\DatabaseProject\DatabaseProject\obj\Debug\DatabaseProject.Properties.Resources.resources
+D:\重要\作業相關\大學部\資訊系必選修\資料庫系統導論\DatabaseProject\DatabaseProject\obj\Debug\DatabaseProject.csproj.GenerateResource.Cache
+D:\重要\作業相關\大學部\資訊系必選修\資料庫系統導論\DatabaseProject\DatabaseProject\bin\Debug\CourseDatabase.mdf
+D:\重要\作業相關\大學部\資訊系必選修\資料庫系統導論\DatabaseProject\DatabaseProject\bin\Debug\CourseDatabase_log.ldf
+D:\重要\作業相關\大學部\資訊系必選修\資料庫系統導論\DatabaseProject\DatabaseProject\bin\Debug\DatabaseProject.exe
+D:\重要\作業相關\大學部\資訊系必選修\資料庫系統導論\DatabaseProject\DatabaseProject\bin\Debug\DatabaseProject.pdb
+D:\重要\作業相關\大學部\資訊系必選修\資料庫系統導論\DatabaseProject\DatabaseProject\obj\Debug\DatabaseProject.Form1.resources
+D:\重要\作業相關\大學部\資訊系必選修\資料庫系統導論\DatabaseProject\DatabaseProject\obj\Debug\DatabaseProject.exe
+D:\重要\作業相關\大學部\資訊系必選修\資料庫系統導論\DatabaseProject\DatabaseProject\obj\Debug\DatabaseProject.pdb
